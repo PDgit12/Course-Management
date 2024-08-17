@@ -1,5 +1,7 @@
 # Course-Management
-This project is a simple Course Management System written in Python, using MySQL as the database backend. The system allows users to manage courses, including adding new courses, viewing existing courses based on specific criteria, and removing courses from the database.The main functionalities include:
+This project is a simple Course Management System written in Python, using MySQL as the database backend. The system allows users to manage courses, including adding new courses, viewing existing courses based on specific criteria, and removing courses from the database.
+
+The main functionalities include:
 Add Course: Insert a new course into the database with details such as course ID, stream, and available opportunities or courses in the stream.
 View Course: View courses based on different search criteria like course ID, stream name, or list all courses.
 Remove Course: Delete a course from the database using the course ID.
